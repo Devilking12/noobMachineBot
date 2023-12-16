@@ -9,12 +9,12 @@ The easiest way to deploy this Bot
  
 ### Reach Me
 
-<p align="center"><a href="https://t.me/Rossie_chat_bot"> <img src="https://img.shields.io/badge/Telegram%20Bot-pink?style=for-the-badge" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/Sona_chatbot"> <img src="https://img.shields.io/badge/Telegram%20Bot-pink?style=for-the-badge" width="220" height="38.45"/></a></p>
 
 ### Support 
 
-<p align="center"><a href="https://t.me/eng_hindi_chat_group"> <img src="https://img.shields.io/badge/noob%20nobita%20Support-pink?style=for-the-badge" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/+_8wXoXCar25hM2Q1"> <img src="https://img.shields.io/badge/noob%20nobita%20Support-pink?style=for-the-badge" width="220" height="38.45"/></a></p>
 
-<p align="center"><a href="https://t.me/UNIQUE_DPZ_COUPLES"> <img src="https://img.shields.io/badge/noob%20nobita%20Channel-blue?style=for-the-badge" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/About_Devil_XD"> <img src="https://img.shields.io/badge/noob%20nobita%20Channel-blue?style=for-the-badge" width="220" height="38.45"/></a></p>
 
 ## © Copyright - Noob (Nobita)
